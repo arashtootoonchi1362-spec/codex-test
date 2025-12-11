@@ -1,0 +1,488 @@
+{
+  "file": "Price_Adjustment_Automated 19 Claude Final 01 Claude Code.xlsx",
+  "timestamp": "2025-12-11T14:07:54.979203",
+  "mode": 4,
+  "base_date": "1403/07/01",
+  "base_rate": 506978.0,
+  "summary": {
+    "total_checks": 40,
+    "passed": 26,
+    "failed": 0,
+    "warnings": 1,
+    "info": 13,
+    "pass_rate": "65.0%"
+  },
+  "results": [
+    {
+      "check_name": "Mode Value (H1)",
+      "status": "INFO",
+      "expected_value": "None",
+      "actual_value": "4",
+      "cell_reference": "1-2!H1",
+      "message": "Mode/Batch number: 4",
+      "details": {}
+    },
+    {
+      "check_name": "Base Date (H2)",
+      "status": "PASS",
+      "expected_value": "1403/07/01",
+      "actual_value": "1403/07/01",
+      "cell_reference": "1-2!H2",
+      "message": "Base date for mode 4",
+      "details": {}
+    },
+    {
+      "check_name": "Base Exchange Rate (P7)",
+      "status": "PASS",
+      "expected_value": "506978",
+      "actual_value": "506978",
+      "cell_reference": "1-2!P7",
+      "message": "Base exchange rate for mode 4",
+      "details": {}
+    },
+    {
+      "check_name": "Quarter/N Calculation Row 7",
+      "status": "PASS",
+      "expected_value": "0.05",
+      "actual_value": "0.05",
+      "cell_reference": "1-2!R7",
+      "message": "N value correct for year 1403",
+      "details": {
+        "date": "1403/07/01",
+        "year": 1403
+      }
+    },
+    {
+      "check_name": "Quarter/N Calculation Row 8",
+      "status": "PASS",
+      "expected_value": "0.05",
+      "actual_value": "0.05",
+      "cell_reference": "1-2!R8",
+      "message": "N value correct for year 1403",
+      "details": {
+        "date": "1403/07/01",
+        "year": 1403
+      }
+    },
+    {
+      "check_name": "Quarter/N Calculation Row 9",
+      "status": "PASS",
+      "expected_value": "0.05",
+      "actual_value": "0.05",
+      "cell_reference": "1-2!R9",
+      "message": "N value correct for year 1403",
+      "details": {
+        "date": "1403/07/01",
+        "year": 1403
+      }
+    },
+    {
+      "check_name": "Quarter/N Calculation Row 10",
+      "status": "PASS",
+      "expected_value": "0.05",
+      "actual_value": "0.05",
+      "cell_reference": "1-2!R10",
+      "message": "N value correct for year 1403",
+      "details": {
+        "date": "1403/07/01",
+        "year": 1403
+      }
+    },
+    {
+      "check_name": "Quarter/N Calculation Row 11",
+      "status": "PASS",
+      "expected_value": "0.05",
+      "actual_value": "0.05",
+      "cell_reference": "1-2!R11",
+      "message": "N value correct for year 1403",
+      "details": {
+        "date": "1403/07/01",
+        "year": 1403
+      }
+    },
+    {
+      "check_name": "Quarter/N Calculation Row 12",
+      "status": "PASS",
+      "expected_value": "0.05",
+      "actual_value": "0.05",
+      "cell_reference": "1-2!R12",
+      "message": "N value correct for year 1403",
+      "details": {
+        "date": "1403/07/01",
+        "year": 1403
+      }
+    },
+    {
+      "check_name": "Quarter/N Calculation Row 13",
+      "status": "PASS",
+      "expected_value": "0.05",
+      "actual_value": "0.05",
+      "cell_reference": "1-2!R13",
+      "message": "N value correct for year 1403",
+      "details": {
+        "date": "1403/07/01",
+        "year": 1403
+      }
+    },
+    {
+      "check_name": "Quarter/N Calculation Row 14",
+      "status": "PASS",
+      "expected_value": "0.05",
+      "actual_value": "0.05",
+      "cell_reference": "1-2!R14",
+      "message": "N value correct for year 1403",
+      "details": {
+        "date": "1403/07/01",
+        "year": 1403
+      }
+    },
+    {
+      "check_name": "Quarter/N Calculation Row 15",
+      "status": "PASS",
+      "expected_value": "0.05",
+      "actual_value": "0.05",
+      "cell_reference": "1-2!R15",
+      "message": "N value correct for year 1403",
+      "details": {
+        "date": "1403/07/01",
+        "year": 1403
+      }
+    },
+    {
+      "check_name": "Quarter/N Calculation Row 16",
+      "status": "PASS",
+      "expected_value": "0.05",
+      "actual_value": "0.05",
+      "cell_reference": "1-2!R16",
+      "message": "N value correct for year 1403",
+      "details": {
+        "date": "1403/07/01",
+        "year": 1403
+      }
+    },
+    {
+      "check_name": "Quarter/N Calculation Row 17",
+      "status": "PASS",
+      "expected_value": "0.05",
+      "actual_value": "0.05",
+      "cell_reference": "1-2!R17",
+      "message": "N value correct for year 1403",
+      "details": {
+        "date": "1403/07/01",
+        "year": 1403
+      }
+    },
+    {
+      "check_name": "Quarter/N Calculation Row 18",
+      "status": "PASS",
+      "expected_value": "0.05",
+      "actual_value": "0.05",
+      "cell_reference": "1-2!R18",
+      "message": "N value correct for year 1403",
+      "details": {
+        "date": "1403/07/01",
+        "year": 1403
+      }
+    },
+    {
+      "check_name": "Quarter/N Calculation Row 19",
+      "status": "PASS",
+      "expected_value": "0.05",
+      "actual_value": "0.05",
+      "cell_reference": "1-2!R19",
+      "message": "N value correct for year 1403",
+      "details": {
+        "date": "1403/07/01",
+        "year": 1403
+      }
+    },
+    {
+      "check_name": "Exchange Rate Lookup Row 7",
+      "status": "PASS",
+      "expected_value": "401204.0",
+      "actual_value": "401204.0",
+      "cell_reference": "1-2!O7",
+      "message": "Rate matches for date 1402/06/30",
+      "details": {
+        "lookup_date": "1402/06/30"
+      }
+    },
+    {
+      "check_name": "Exchange Rate Lookup Row 8",
+      "status": "PASS",
+      "expected_value": "401459.0",
+      "actual_value": "401459.0",
+      "cell_reference": "1-2!O8",
+      "message": "Rate matches for date 1402/08/20",
+      "details": {
+        "lookup_date": "1402/08/20"
+      }
+    },
+    {
+      "check_name": "Exchange Rate Lookup Row 9",
+      "status": "PASS",
+      "expected_value": "430169.0",
+      "actual_value": "430169.0",
+      "cell_reference": "1-2!O9",
+      "message": "Rate matches for date 1402/11/02",
+      "details": {
+        "lookup_date": "1402/11/02"
+      }
+    },
+    {
+      "check_name": "Exchange Rate Lookup Row 10",
+      "status": "PASS",
+      "expected_value": "430284.0",
+      "actual_value": "430284.0",
+      "cell_reference": "1-2!O10",
+      "message": "Rate matches for date 1402/10/30",
+      "details": {
+        "lookup_date": "1402/10/30"
+      }
+    },
+    {
+      "check_name": "Exchange Rate Lookup Row 11",
+      "status": "PASS",
+      "expected_value": "440489.0",
+      "actual_value": "440489.0",
+      "cell_reference": "1-2!O11",
+      "message": "Rate matches for date 1402/12/26",
+      "details": {
+        "lookup_date": "1402/12/26"
+      }
+    },
+    {
+      "check_name": "Exchange Rate Lookup Row 12",
+      "status": "PASS",
+      "expected_value": "459763.0",
+      "actual_value": "459763.0",
+      "cell_reference": "1-2!O12",
+      "message": "Rate matches for date 1403/04/06",
+      "details": {
+        "lookup_date": "1403/04/06"
+      }
+    },
+    {
+      "check_name": "Exchange Rate Lookup Row 13",
+      "status": "WARNING",
+      "expected_value": "N/A",
+      "actual_value": "0",
+      "cell_reference": "1-2!O13",
+      "message": "No rate found in Arz for date 1403/06/30",
+      "details": {
+        "lookup_date": "1403/06/30"
+      }
+    },
+    {
+      "check_name": "Exchange Rate Lookup Row 14",
+      "status": "PASS",
+      "expected_value": "672704.0",
+      "actual_value": "672704.0",
+      "cell_reference": "1-2!O14",
+      "message": "Rate matches for date 1403/10/09",
+      "details": {
+        "lookup_date": "1403/10/09"
+      }
+    },
+    {
+      "check_name": "Exchange Rate Lookup Row 15",
+      "status": "PASS",
+      "expected_value": "787331.0",
+      "actual_value": "787331.0",
+      "cell_reference": "1-2!O15",
+      "message": "Rate matches for date 1404/02/09",
+      "details": {
+        "lookup_date": "1404/02/09"
+      }
+    },
+    {
+      "check_name": "Exchange Rate Lookup Row 16",
+      "status": "PASS",
+      "expected_value": "741620.0",
+      "actual_value": "741620.0",
+      "cell_reference": "1-2!O16",
+      "message": "Rate matches for date 1403/12/18",
+      "details": {
+        "lookup_date": "1403/12/18"
+      }
+    },
+    {
+      "check_name": "Exchange Rate Lookup Row 17",
+      "status": "PASS",
+      "expected_value": "741620.0",
+      "actual_value": "741620.0",
+      "cell_reference": "1-2!O17",
+      "message": "Rate matches for date 1403/12/18",
+      "details": {
+        "lookup_date": "1403/12/18"
+      }
+    },
+    {
+      "check_name": "Exchange Rate Lookup Row 18",
+      "status": "PASS",
+      "expected_value": "782169.0",
+      "actual_value": "782169.0",
+      "cell_reference": "1-2!O18",
+      "message": "Rate matches for date 1404/02/13",
+      "details": {
+        "lookup_date": "1404/02/13"
+      }
+    },
+    {
+      "check_name": "Index Value Row 7",
+      "status": "INFO",
+      "expected_value": "See category sheet",
+      "actual_value": "1",
+      "cell_reference": "1-2!F7",
+      "message": "Category=1, Chapter=1, Date=1403/07/01",
+      "details": {
+        "category": 1,
+        "chapter": 1,
+        "date": "1403/07/01"
+      }
+    },
+    {
+      "check_name": "Index Value Row 8",
+      "status": "INFO",
+      "expected_value": "See category sheet",
+      "actual_value": "-",
+      "cell_reference": "1-2!F8",
+      "message": "Category=1, Chapter=2, Date=1403/07/01",
+      "details": {
+        "category": 1,
+        "chapter": 2,
+        "date": "1403/07/01"
+      }
+    },
+    {
+      "check_name": "Index Value Row 9",
+      "status": "INFO",
+      "expected_value": "See category sheet",
+      "actual_value": "11",
+      "cell_reference": "1-2!F9",
+      "message": "Category=1, Chapter=3, Date=1403/07/01",
+      "details": {
+        "category": 1,
+        "chapter": 3,
+        "date": "1403/07/01"
+      }
+    },
+    {
+      "check_name": "Index Value Row 10",
+      "status": "INFO",
+      "expected_value": "See category sheet",
+      "actual_value": "12",
+      "cell_reference": "1-2!F10",
+      "message": "Category=1, Chapter=3, Date=1403/07/01",
+      "details": {
+        "category": 1,
+        "chapter": 3,
+        "date": "1403/07/01"
+      }
+    },
+    {
+      "check_name": "Index Value Row 11",
+      "status": "INFO",
+      "expected_value": "See category sheet",
+      "actual_value": "1",
+      "cell_reference": "1-2!F11",
+      "message": "Category=1, Chapter=1, Date=1403/07/01",
+      "details": {
+        "category": 1,
+        "chapter": 1,
+        "date": "1403/07/01"
+      }
+    },
+    {
+      "check_name": "Index Value Row 12",
+      "status": "INFO",
+      "expected_value": "See category sheet",
+      "actual_value": "5",
+      "cell_reference": "1-2!F12",
+      "message": "Category=1, Chapter=1, Date=1403/07/01",
+      "details": {
+        "category": 1,
+        "chapter": 1,
+        "date": "1403/07/01"
+      }
+    },
+    {
+      "check_name": "Index Value Row 13",
+      "status": "INFO",
+      "expected_value": "See category sheet",
+      "actual_value": "19",
+      "cell_reference": "1-2!F13",
+      "message": "Category=1, Chapter=1, Date=1403/07/01",
+      "details": {
+        "category": 1,
+        "chapter": 1,
+        "date": "1403/07/01"
+      }
+    },
+    {
+      "check_name": "Index Value Row 14",
+      "status": "INFO",
+      "expected_value": "See category sheet",
+      "actual_value": "23",
+      "cell_reference": "1-2!F14",
+      "message": "Category=1, Chapter=1, Date=1403/07/01",
+      "details": {
+        "category": 1,
+        "chapter": 1,
+        "date": "1403/07/01"
+      }
+    },
+    {
+      "check_name": "Index Value Row 15",
+      "status": "INFO",
+      "expected_value": "See category sheet",
+      "actual_value": "40",
+      "cell_reference": "1-2!F15",
+      "message": "Category=1, Chapter=1, Date=1403/07/01",
+      "details": {
+        "category": 1,
+        "chapter": 1,
+        "date": "1403/07/01"
+      }
+    },
+    {
+      "check_name": "Index Value Row 16",
+      "status": "INFO",
+      "expected_value": "See category sheet",
+      "actual_value": "2",
+      "cell_reference": "1-2!F16",
+      "message": "Category=1, Chapter=1, Date=1403/07/01",
+      "details": {
+        "category": 1,
+        "chapter": 1,
+        "date": "1403/07/01"
+      }
+    },
+    {
+      "check_name": "Index Value Row 17",
+      "status": "INFO",
+      "expected_value": "See category sheet",
+      "actual_value": "15",
+      "cell_reference": "1-2!F17",
+      "message": "Category=1, Chapter=1, Date=1403/07/01",
+      "details": {
+        "category": 1,
+        "chapter": 1,
+        "date": "1403/07/01"
+      }
+    },
+    {
+      "check_name": "Index Value Row 18",
+      "status": "INFO",
+      "expected_value": "See category sheet",
+      "actual_value": "29",
+      "cell_reference": "1-2!F18",
+      "message": "Category=1, Chapter=1, Date=1403/07/01",
+      "details": {
+        "category": 1,
+        "chapter": 1,
+        "date": "1403/07/01"
+      }
+    }
+  ]
+}

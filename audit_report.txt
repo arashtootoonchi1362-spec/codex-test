@@ -1,0 +1,264 @@
+================================================================================
+EXCEL LOGIC CHAIN AUDIT REPORT
+ﻞﺴﮐﺍ ﻖﻄﻨﻣ ﻩﺮﯿﺠﻧﺯ ﯽﺳﺭﺯﺎﺑ ﺵﺭﺍﺰﮔ
+================================================================================
+
+File: Price_Adjustment_Automated 19 Claude Final 01 Claude Code.xlsx
+Timestamp: 2025-12-11T14:07:54.953164
+Mode: 4
+Base Date: 1403/07/01
+Base Rate: 506978.0
+
+----------------------------------------
+SUMMARY
+----------------------------------------
+Total Checks:  40
+Passed:        26 (PASS)
+Failed:        0 (FAIL)
+Warnings:      1 (WARNING)
+Info:          13 (INFO)
+Pass Rate:     65.0%
+
+----------------------------------------
+DETAILED RESULTS
+----------------------------------------
+
+[INFO] Mode Value (H1)
+  Cell: 1-2!H1
+  Expected: None
+  Actual: 4
+  Message: Mode/Batch number: 4
+
+[PASS] Base Date (H2)
+  Cell: 1-2!H2
+  Expected: 1403/07/01
+  Actual: 1403/07/01
+  Message: Base date for mode 4
+
+[PASS] Base Exchange Rate (P7)
+  Cell: 1-2!P7
+  Expected: 506978
+  Actual: 506978
+  Message: Base exchange rate for mode 4
+
+[PASS] Quarter/N Calculation Row 7
+  Cell: 1-2!R7
+  Expected: 0.05
+  Actual: 0.05
+  Message: N value correct for year 1403
+
+[PASS] Quarter/N Calculation Row 8
+  Cell: 1-2!R8
+  Expected: 0.05
+  Actual: 0.05
+  Message: N value correct for year 1403
+
+[PASS] Quarter/N Calculation Row 9
+  Cell: 1-2!R9
+  Expected: 0.05
+  Actual: 0.05
+  Message: N value correct for year 1403
+
+[PASS] Quarter/N Calculation Row 10
+  Cell: 1-2!R10
+  Expected: 0.05
+  Actual: 0.05
+  Message: N value correct for year 1403
+
+[PASS] Quarter/N Calculation Row 11
+  Cell: 1-2!R11
+  Expected: 0.05
+  Actual: 0.05
+  Message: N value correct for year 1403
+
+[PASS] Quarter/N Calculation Row 12
+  Cell: 1-2!R12
+  Expected: 0.05
+  Actual: 0.05
+  Message: N value correct for year 1403
+
+[PASS] Quarter/N Calculation Row 13
+  Cell: 1-2!R13
+  Expected: 0.05
+  Actual: 0.05
+  Message: N value correct for year 1403
+
+[PASS] Quarter/N Calculation Row 14
+  Cell: 1-2!R14
+  Expected: 0.05
+  Actual: 0.05
+  Message: N value correct for year 1403
+
+[PASS] Quarter/N Calculation Row 15
+  Cell: 1-2!R15
+  Expected: 0.05
+  Actual: 0.05
+  Message: N value correct for year 1403
+
+[PASS] Quarter/N Calculation Row 16
+  Cell: 1-2!R16
+  Expected: 0.05
+  Actual: 0.05
+  Message: N value correct for year 1403
+
+[PASS] Quarter/N Calculation Row 17
+  Cell: 1-2!R17
+  Expected: 0.05
+  Actual: 0.05
+  Message: N value correct for year 1403
+
+[PASS] Quarter/N Calculation Row 18
+  Cell: 1-2!R18
+  Expected: 0.05
+  Actual: 0.05
+  Message: N value correct for year 1403
+
+[PASS] Quarter/N Calculation Row 19
+  Cell: 1-2!R19
+  Expected: 0.05
+  Actual: 0.05
+  Message: N value correct for year 1403
+
+[PASS] Exchange Rate Lookup Row 7
+  Cell: 1-2!O7
+  Expected: 401204.0
+  Actual: 401204.0
+  Message: Rate matches for date 1402/06/30
+
+[PASS] Exchange Rate Lookup Row 8
+  Cell: 1-2!O8
+  Expected: 401459.0
+  Actual: 401459.0
+  Message: Rate matches for date 1402/08/20
+
+[PASS] Exchange Rate Lookup Row 9
+  Cell: 1-2!O9
+  Expected: 430169.0
+  Actual: 430169.0
+  Message: Rate matches for date 1402/11/02
+
+[PASS] Exchange Rate Lookup Row 10
+  Cell: 1-2!O10
+  Expected: 430284.0
+  Actual: 430284.0
+  Message: Rate matches for date 1402/10/30
+
+[PASS] Exchange Rate Lookup Row 11
+  Cell: 1-2!O11
+  Expected: 440489.0
+  Actual: 440489.0
+  Message: Rate matches for date 1402/12/26
+
+[PASS] Exchange Rate Lookup Row 12
+  Cell: 1-2!O12
+  Expected: 459763.0
+  Actual: 459763.0
+  Message: Rate matches for date 1403/04/06
+
+[WARN] Exchange Rate Lookup Row 13
+  Cell: 1-2!O13
+  Expected: N/A
+  Actual: 0
+  Message: No rate found in Arz for date 1403/06/30
+
+[PASS] Exchange Rate Lookup Row 14
+  Cell: 1-2!O14
+  Expected: 672704.0
+  Actual: 672704.0
+  Message: Rate matches for date 1403/10/09
+
+[PASS] Exchange Rate Lookup Row 15
+  Cell: 1-2!O15
+  Expected: 787331.0
+  Actual: 787331.0
+  Message: Rate matches for date 1404/02/09
+
+[PASS] Exchange Rate Lookup Row 16
+  Cell: 1-2!O16
+  Expected: 741620.0
+  Actual: 741620.0
+  Message: Rate matches for date 1403/12/18
+
+[PASS] Exchange Rate Lookup Row 17
+  Cell: 1-2!O17
+  Expected: 741620.0
+  Actual: 741620.0
+  Message: Rate matches for date 1403/12/18
+
+[PASS] Exchange Rate Lookup Row 18
+  Cell: 1-2!O18
+  Expected: 782169.0
+  Actual: 782169.0
+  Message: Rate matches for date 1404/02/13
+
+[INFO] Index Value Row 7
+  Cell: 1-2!F7
+  Expected: See category sheet
+  Actual: 1
+  Message: Category=1, Chapter=1, Date=1403/07/01
+
+[INFO] Index Value Row 8
+  Cell: 1-2!F8
+  Expected: See category sheet
+  Actual: -
+  Message: Category=1, Chapter=2, Date=1403/07/01
+
+[INFO] Index Value Row 9
+  Cell: 1-2!F9
+  Expected: See category sheet
+  Actual: 11
+  Message: Category=1, Chapter=3, Date=1403/07/01
+
+[INFO] Index Value Row 10
+  Cell: 1-2!F10
+  Expected: See category sheet
+  Actual: 12
+  Message: Category=1, Chapter=3, Date=1403/07/01
+
+[INFO] Index Value Row 11
+  Cell: 1-2!F11
+  Expected: See category sheet
+  Actual: 1
+  Message: Category=1, Chapter=1, Date=1403/07/01
+
+[INFO] Index Value Row 12
+  Cell: 1-2!F12
+  Expected: See category sheet
+  Actual: 5
+  Message: Category=1, Chapter=1, Date=1403/07/01
+
+[INFO] Index Value Row 13
+  Cell: 1-2!F13
+  Expected: See category sheet
+  Actual: 19
+  Message: Category=1, Chapter=1, Date=1403/07/01
+
+[INFO] Index Value Row 14
+  Cell: 1-2!F14
+  Expected: See category sheet
+  Actual: 23
+  Message: Category=1, Chapter=1, Date=1403/07/01
+
+[INFO] Index Value Row 15
+  Cell: 1-2!F15
+  Expected: See category sheet
+  Actual: 40
+  Message: Category=1, Chapter=1, Date=1403/07/01
+
+[INFO] Index Value Row 16
+  Cell: 1-2!F16
+  Expected: See category sheet
+  Actual: 2
+  Message: Category=1, Chapter=1, Date=1403/07/01
+
+[INFO] Index Value Row 17
+  Cell: 1-2!F17
+  Expected: See category sheet
+  Actual: 15
+  Message: Category=1, Chapter=1, Date=1403/07/01
+
+[INFO] Index Value Row 18
+  Cell: 1-2!F18
+  Expected: See category sheet
+  Actual: 29
+  Message: Category=1, Chapter=1, Date=1403/07/01
