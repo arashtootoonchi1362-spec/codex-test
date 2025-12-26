@@ -1,0 +1,10 @@
+# Python dependencies for EPC Dashboard and Excel Logic Audit
+# Generated: 2025-12-26
+# Run: pip install -r requirements.txt
+
+# Core dependencies
+openpyxl>=3.1.5           # Excel file manipulation (latest stable)
+python-dateutil>=2.9.0    # Date utilities for relativedelta
+
+# Note: python-dateutil requires 'six' as a transitive dependency
+# six is automatically installed but is only needed for Python 2/3 compatibility
